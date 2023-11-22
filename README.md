@@ -19,7 +19,7 @@ I am very confident in building frontend interfaces, with deep expertise in HTML
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pryy17&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pryy17&show_icons=true&theme=gotham" alt="pryy17" />
 
 
 
