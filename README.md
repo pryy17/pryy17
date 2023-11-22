@@ -13,7 +13,7 @@ my passion for software lies with dreaming up ideas and making them come true wi
 
 **languages and tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,figma,nextjs,nodejs,bootstrap,tailwind,ts,js,html,css,mysql,postman,prisma,stackoverflow,styledcomponents,vercel,visualstudio,apollo,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,figma,nextjs,nodejs,bootstrap,tailwind,ts,js,html,css,mysql,postman,prisma,stackoverflow,styledcomponents,vercel,visualstudio,apollo,git&perline=7)](https://skillicons.dev)
 
 📈 my github stats
 
