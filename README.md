@@ -6,7 +6,7 @@ I am very confident in building frontend interfaces, with deep expertise in HTML
 
 **languages and tools:**  
 
-[![My Skills](https://skillicons.dev/icons i=react,vue,figma,nextjs,nodejs,bootstrap,tailwind,ts,js,html,css,mysql,postman,prisma,stackoverflow,styledcomponents,vercel,visualstudio,apollo,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,figma,nextjs,nodejs,bootstrap,tailwind,ts,js,html,css,mysql,postman,prisma,stackoverflow,styledcomponents,vercel,visualstudio,apollo,git&perline=3)](https://skillicons.dev)
 
 📈 my github stats
 
