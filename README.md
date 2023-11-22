@@ -2,13 +2,11 @@ hi, i'm [Priandy Dwi Handika](https://abhishknads.me/), a passionate full stack 
 
 I am very confident in building frontend interfaces, with deep expertise in HTML, CSS and JavaScript. My skills include creating visually appealing and responsive user interfaces. I am ready to make a meaningful contribution to the project by leveraging my experience and expertise, while prioritizing a great user experience.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-
 **languages and tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,figma,nextjs,nodejs,bootstrap,tailwind,ts,js,html,css,mysql,postman,prisma,stackoverflow,styledcomponents,vercel,visualstudio,apollo,git&perline=3)](https://skillicons.dev)
 
 📈 my github stats
 
